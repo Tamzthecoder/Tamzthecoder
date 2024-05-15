@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Tamzthecoder
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Bcom Acconting Science(Computer Science and information systems)
+- 👀 I’m interested in Traveling and Learning new things 
+- 🌱 I’m currently learning Bcom Acconting Science at Nelson mandela university.
 - 💞️ I’m looking to collaborate on everything new and exciting about coding, academics, politics and sports. 
 - 📫 How to reach me via email. 
 - 😄 Pronouns: she
-- ⚡ Fun fact:I love food
+- ⚡ Fun fact:I love food and trying new quizines. 
 
 <!---
 Tamzthecoder/Tamzthecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
